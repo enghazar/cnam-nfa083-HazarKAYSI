@@ -1,7 +1,7 @@
 <!-- fichier cnam/nfa017/2017-cf1/index.inc.php - 20180604-PBO -->
 
 <!-- ENTETE HTML =============================================================== --><?php
-     include("entete.inc.php");
+     include("inc/entete.inc.php");
      entete("NFA083 CF1 : Présentation hébergeur",0); /* pour le title et le h1 */ ?>
 
 <!-- PRESENTATION Hébergeur ============================================================== -->
@@ -24,7 +24,7 @@
   </section>
   <section><h2>Complément d'information</h2>
            <p><strong>Une question complémentaire ? </strong> 
-              <a href="questions.php" id="question" class="actif">Poser une question</a>
+              <a href="question.php" id="question" class="actif">Poser une question</a>
            </p>
   </section>
   
