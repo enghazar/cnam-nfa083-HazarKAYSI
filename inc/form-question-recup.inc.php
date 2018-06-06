@@ -2,10 +2,10 @@
 
 /* RECUP QUESTION PSEUDO ==================================================== */
     if(isset($_GET['question_pseudo'])){
-        $question_pseudo=(string) $_GET['question_pseudo'];
-    } else {$question_pseudo=""; }
+        $question_pseudo=(string)$_GET['question_pseudo'];
+    } else {$question_pseudo=""; };
 
 /* RECUP QUESTION TEXTE ================================================ */
     if(isset($_GET['question_texte'])){
-        $question_texte=(string) $_GET['question_texte'];
+        $question_texte=(string)$_GET['question_texte'];
     } else {$question_texte=""; }
