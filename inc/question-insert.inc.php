@@ -2,8 +2,11 @@
 
 /* RECUP USER LISTE ============================================================ */
     if($question_pseudo){                                  /* uniquement si non vide */
-        $requete21="INSERT INTO question(question_id, question_pseudo, question_texte 
-                   VALUES ('','".$question_pseudo."','".$question_texte."')";
+        $requete21="INSERT INTO question(question_pseudo, question_texte) 
+                   VALUES(?,?)";
+                   
         /* DEBUG */ echo "requete21 : ".$requete21.'<br />';
-        $resultat21 = $con->query($requete21);           /* Pour préparer et executer la requete */
+        
+        $resultat21 = $con->prepare($requete21); /* Pour préparer et executer la requete */
+        $resultat21->execute(array($question_pseudo,$question_texte));
     } ?>
