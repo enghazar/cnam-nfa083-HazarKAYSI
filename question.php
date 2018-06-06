@@ -6,7 +6,7 @@
 
 <!-- CONNEXION A LA BDD ======================================================== --><?php
      include("inc/connexion.inc.php");
-     $con=connexion("cnamcp09_nfa083cf1_2017"); /* nom de la BDD */ ?>
+     $con=connexion("id6090142_cnamcp09_nfa083cf1_2017"); /* nom de la BDD */ ?>
 
 <!-- SATISFACTION ============================================================== -->
   <section><?php include("inc/form-question.inc.php");
