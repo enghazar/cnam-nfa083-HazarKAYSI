@@ -6,21 +6,21 @@
 
 <!-- PRESENTATION Hébergeur ============================================================== -->
   <section><h2>Informations sur mon hébergeur</h2>
-           <p><strong>Nom : </strong> Gandi</p>
-           <p><strong>Logo : </strong> <img src="img/gandi.jpg" /></p>
-           <p><strong>Siège social : </strong> 63, 65 Boulevard Massena 75013 Paris</p>
+           <p><strong>Nom : </strong> 000webhost</p>
+           <p><strong>Logo : </strong> <img src="img/logo.png" /></p>
+           <p><strong>Siège social : </strong> 61 Lordou Vironos Street 6023 Larnaca, Cyprus</p>
            <p><strong>Lien d'inscription : </strong>
-           <a href="https://www.gandi.net/fr/simple-hosting" target="_blanck" >Inscription Gandi</a></p>
+           <a href="https://fr.000webhost.com/inscription-site-gratuite" target="_blanck" >Inscription 000webhost</a></p>
   </section>
   <section><h2>Informations sur la page question.php</h2>
-           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 2 050 s</p>
+           <p><strong>Temps de chargement total en ms( https://tools.pingdom.com/ ): </strong> 1.18 s</p>
            <p><strong>Temps lié hébergeur (ms) : </strong> 1 200 s</p>
-           <p><strong>Temps lié image (ms) : </strong> 46 ms</p>
-           <p><strong>Temps lié CSS (ms) : </strong> 42 ms</p>
+           <p><strong>Temps lié image (ms) : </strong> 35 ms</p>
+           <p><strong>Temps lié CSS (ms) : </strong> 22 ms</p>
            <p><strong>Temps lié JS (ms) : </strong> 10 ms</p>
            <p><strong>Adresse IP d'hébergement de la page question.php 
-           (http://www.mon-ip.com/adresse-ip-site-internet.php) : </strong> 217.70.180.152</p>
-           <p><strong>Nom du serveur d'hébergement de la page question.php : </strong> gpaas12.dc0.gandi.net</p>
+           (http://www.mon-ip.com/adresse-ip-site-internet.php) : </strong> 145.14.145.234</p>
+           <p><strong>Nom du serveur d'hébergement de la page question.php : </strong> files.000webhost.com</p>
   </section>
   <section><h2>Complément d'information</h2>
            <p><strong>Une question complémentaire ? </strong> 
