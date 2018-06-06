@@ -2,7 +2,7 @@
 
 function connexion($bddname) {
 /* variables de connexion =================================================== */
-    $serveur = 'localhost';       $loginserveur = 'root';   $mdpserveur = ''; // variables connexion serveur
+    $serveur = 'localhost';  $loginserveur ='id6090142_hazarkaysi';   $mdpserveur = 'totototo'; // variables connexion serveur
 
 
 /* connexion ================================================================ */
